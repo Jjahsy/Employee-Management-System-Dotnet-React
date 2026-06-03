@@ -156,3 +156,4 @@ C:\Users\Dell\Desktop\EmployeeApp\EmployeeManagementAPI\obj\Debug\net10.0\refint
 C:\Users\Dell\Desktop\EmployeeApp\EmployeeManagementAPI\obj\Debug\net10.0\EmployeeManagementAPI.pdb
 C:\Users\Dell\Desktop\EmployeeApp\EmployeeManagementAPI\obj\Debug\net10.0\EmployeeManagementAPI.genruntimeconfig.cache
 C:\Users\Dell\Desktop\EmployeeApp\EmployeeManagementAPI\obj\Debug\net10.0\ref\EmployeeManagementAPI.dll
+C:\Users\Dell\Desktop\EmployeeApp\EmployeeManagementAPI\obj\Debug\net10.0\EmployeeManagementAPI.sourcelink.json
